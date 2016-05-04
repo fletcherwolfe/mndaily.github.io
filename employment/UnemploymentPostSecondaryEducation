@@ -55,4 +55,4 @@ d3.select("svg").append("text")
     .style("font-size", "x-small")
     .text("Source:  Department of Employment and Economic Development");    
 </script>
-//source: http://mn.gov/deed/newscenter/publications/trends/december-2015/disparities-wage-employment.jsp
+<!-- source: http://mn.gov/deed/newscenter/publications/trends/december-2015/disparities-wage-employment.jsp -->
